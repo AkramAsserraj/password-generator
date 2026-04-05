@@ -2,6 +2,10 @@
 
 Application Python permettant de générer et tester des mots de passe sécurisés.
 
+## Aperçu
+
+![Aperçu du projet](image.png)
+
 ---
 
 ## Fonctionnalités
@@ -35,6 +39,6 @@ Application Python permettant de générer et tester des mots de passe sécuris�
 
 ## Lancer le projet
 
-## Version graphique :
+### Version graphique :
 ```bash
 python main.py
