@@ -124,6 +124,7 @@ def run_app():
             "2. Choisissez les types de caractères.\n"
             "3. Cliquez sur 'Générer'.\n\n"
             "Vous pouvez aussi tester un mot de passe."
+
         )
 
     def show_about():
